@@ -6,4 +6,4 @@ bash -n sing-box.sh
 sudo bash sing-box.sh
 ```
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/hkzping999/sing-box/main/sing-box.sh -O sing-box.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/hkzping999/sing-box/main/sing-box.sh)
